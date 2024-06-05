@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 import numpy
 
 #setting image path
-img_path = "./img4.jpg"
+img_path = "./img1.jpg"
 save_dir = "./"
 
 #
