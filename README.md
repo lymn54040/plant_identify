@@ -4,13 +4,12 @@
 ### 安裝套件
   (運行環境 : python = 3.9)
 ```bash
-git clone https://github.com/lymn54040/plant_identification.git
+pip install -r requirements.txt
 ```
 ### 運行專案
 
 ```bash
-pip install -r requirements.txt
-cd plant_identification
+cd plant_identify
 ```
 ```bash
 python pred.py
