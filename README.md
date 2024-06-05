@@ -9,6 +9,7 @@ git clone https://github.com/lymn54040/plant_identification.git
 ### 運行專案
 
 ```bash
+pip install -r requirements.txt
 cd plant_identification
 ```
 ```bash
