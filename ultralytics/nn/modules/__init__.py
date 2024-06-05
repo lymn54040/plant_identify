@@ -46,6 +46,11 @@ from .block import (
     RepNCSPELAN4,
     ResNetLayer,
     Silence,
+    ############ add module
+    SE, 
+    CBAM,
+    SimAM,
+    CoordAtt,
 )
 from .conv import (
     CBAM,
