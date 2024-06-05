@@ -9,7 +9,7 @@ git clone https://github.com/lymn54040/plant_identification.git
 ### 運行專案
 
 ```bash
-cd plant_identification/ultralytics
+cd plant_identification
 ```
 ```bash
 python pred.py
